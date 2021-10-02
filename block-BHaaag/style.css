@@ -1,0 +1,14 @@
+body {
+    background-color: darkslateblue;
+}
+h2 {
+    color: deepskyblue;
+}
+p {
+    color:floralwhite;
+}
+h3 {color: floralwhite;}
+h1 {color: floralwhite;}
+#unique {
+    color: red;
+}
